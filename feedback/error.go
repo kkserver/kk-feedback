@@ -1,0 +1,5 @@
+package feedback
+
+const ERROR_FEEDBACK = 0x70000
+
+const ERROR_FEEDBACK_NOT_FOUND = ERROR_FEEDBACK + 1
